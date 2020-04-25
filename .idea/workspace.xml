@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb2be5b-1f8d-4aae-8a0c-76baf8f1eecd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BaseQzone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HttpServer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QsignTask.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QzoneTask.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/Db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/Factory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/BigVip.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Buluo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Checkin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Game.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/GameVip.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Hz.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Music.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Qsign.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Social.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Video.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Vip.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Weishi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/YueDu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qsignfunc/Yundong.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/CardLike.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Comment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Flower.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Forward.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Gift.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/HomeLike.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Like.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Qzone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/RenQi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Reply.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Shuo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Sign.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/StayMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Sweet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/Token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qzonefunc/VisitQzone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/pic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/sji.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/ss.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="570">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="25" selection-start-column="25" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -123,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/qzoneTask/Reply.php" />
         <option value="$PROJECT_DIR$/qzoneTask/Shuo.php" />
         <option value="$PROJECT_DIR$/qzoneTask/Sign.php" />
         <option value="$PROJECT_DIR$/qzoneTask/VisitQzone.php" />
@@ -174,6 +145,7 @@
         <option value="$PROJECT_DIR$/QzoneTask.php" />
         <option value="$PROJECT_DIR$/run.php" />
         <option value="$PROJECT_DIR$/database/config.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -243,15 +215,24 @@
       <workItem from="1587640834693" duration="19942000" />
       <workItem from="1587708222217" duration="21128000" />
       <workItem from="1587743817331" duration="9496000" />
-      <workItem from="1587801655827" duration="23220000" />
+      <workItem from="1587801655827" duration="23804000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1587826544734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587826544734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73786000" />
+    <option name="totallyTimeSpent" value="74370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -278,14 +259,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/qzonefunc/Sweet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taskrun/delly.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -637,8 +615,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="570">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="25" selection-start-column="25" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

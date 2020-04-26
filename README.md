@@ -1,1 +1,1 @@
-基于Swoole http的qq空间任务运行Api
+基于Swoole http的qq空间任务运行Api，目前已实现QQ空间点赞，评论，发表，转发，留言，删除说说，删除留言等功能

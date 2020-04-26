@@ -65,7 +65,7 @@ class HttpServer
                 } else {
                     $run_message = $instance->run($func);
                 }
-                $response->header("Content-Type", "text/html; charset=utf-8");
+                $response->header("Content-Type", "application/json; charset=utf-8");
                 $response->end(json_encode($run_message));
             } else {
                 $response->status(404);

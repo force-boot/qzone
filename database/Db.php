@@ -65,6 +65,7 @@ class Db
         } catch (Exception $e) {
             exit('PDO Connection Error:' . $e->getMessage());
         }
+        self::$pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
         self::$pdo->exec("set names utf8");
     }
 
@@ -99,6 +100,15 @@ class Db
     public function getConfig()
     {
         return self::$config;
+    }
+    
+    /**
+     * 禁止clone
+     * @access private
+     */
+    private function __clone()
+    {
+        // TODO: Implement __clone() method.
     }
 
     /**

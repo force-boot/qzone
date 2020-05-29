@@ -187,8 +187,8 @@ class QzoneTask
         //获取说说转发功能实例
         $instance = $this->factory('Forward');
         $method = $this->getParam('method', 1);
-        $uins = isset($_GET['uin']) ? $_GET['uin'] : null;
-        $content = isset($_GET['content']) ? $_GET['content'] : null;
+        $uins = $this->getParam('uin',null);
+        $content = $this->getParam('content', null);
         //执行任务
         $instance->run($method, $uins, $content);
         //返回执行信息
@@ -205,7 +205,7 @@ class QzoneTask
         //获取空间签到功能实例
         $instance = $this->factory('Sign');
         $method = $this->getParam('method', 2);
-        $content = isset($_GET['content']) ? $_GET['content'] : null;
+        $content = $this->getParam('content', null);
         //执行任务
         $instance->run($method, $content);
         //返回执行信息
